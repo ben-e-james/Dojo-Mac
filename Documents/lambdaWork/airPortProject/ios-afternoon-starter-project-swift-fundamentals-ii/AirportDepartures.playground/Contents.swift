@@ -48,9 +48,9 @@ class departureBoard {
     
     func alertPassengers() {
         
-        let alert =
+        let alert = FlightStatus.self
         switch alert {
-            case canceled
+        case .canceled
         }
         
     }
